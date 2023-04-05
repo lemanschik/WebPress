@@ -4,4 +4,4 @@ A Chromium Project Fork that aims to Replace Goma and Includes a Fully Interacti
 Also it includes Live Educational Material to Learn Stealify Lang a Language Framework that we use to incremental adopt Polyglot Codebases and Documentation
 To Simplify Maintainance and Development as also speed up Rollouts of software.
 
-https://github.lemanschik.com/chromium-virtual-environments
+https://github.lemanschik.com/chromium-virtual-environments/demos/wordpress
